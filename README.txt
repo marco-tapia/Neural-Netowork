@@ -1,3 +1,10 @@
+TO RUN: simply run the whichever python file you want (the img NN or the basic NN).
+For the image one, check back with the images folder to check the result
+with "image.jpg", as that is the image that the NN is predicting as to 
+what color is the moset prominent
+
+-----------------------------------------------------------------------------------
+
 The idea behind this project was to dive into the very basics of how
 Artificial Intelligence works by programming some neural networks from
 scratch (no machine learning libraries like tensor flow).
